@@ -1,4 +1,17 @@
-### Hi there 👋
+## Welcome to Parks's github👋
+- I'm a student who love AI & BigData
+
+### Interest 
+- Computer Vision
+- NLP
+
+### SKills
+- pytorch
+- sklearn
+- pandas
+- numpy
+- matplotlib
+
 
 <div align=center>
 	

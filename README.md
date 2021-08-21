@@ -6,7 +6,7 @@
 	
  </div>
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/park-geun-hyeong/github-readme-stats)
+ [![park's github stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **park-geun-hyeong/park-geun-hyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

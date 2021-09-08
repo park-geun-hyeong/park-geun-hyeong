@@ -1,4 +1,4 @@
-## Welcome to Parks's github👋
+## Welcome to Park's github👋
 - I'm a student who love AI & BigData
 
 

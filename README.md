@@ -1,13 +1,6 @@
 ## Welcome to Park's github👋
 - I'm a student who love AI & BigData
 
-
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
-	
- </div>
- 
  [![park's github stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-geun-hyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

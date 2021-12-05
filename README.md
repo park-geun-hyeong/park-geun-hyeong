@@ -1,5 +1,7 @@
 ## Welcome to Park's github👋
-- I'm a student who love AI & BigData
+- Interested in AI & DataScience...
+- Especially Computer Vision
+
 
  [![park's github stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

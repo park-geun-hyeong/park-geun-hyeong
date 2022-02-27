@@ -1,6 +1,14 @@
-## Welcome to Park's github👋
-- Interested in AI & DataScience...
-- Especially Computer Vision
+## About Me👋
+#### Park Geun Hyeong
+JBNU Electronic Engineering undergraduate student.(2017.03 ~ )
+Detailed major is Control Robotics.
+
+Interested in AI & Robotics(SW)
+Mainly uses Python(studying C++) 
+
+## Research Interest
+- Computer Vision: Object Detection, Segmentation, Classification
+- Visual Slam: ORB SLAM
 
 
  [![park's github stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

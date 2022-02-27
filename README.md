@@ -4,7 +4,7 @@ JBNU Electronic Engineering undergraduate student.(2017.03 ~ )
 <br>Detailed major is Control Robotics.</br>
 
 <br>Interested in AI & Robotics(SW)</br>
-<br>Mainly uses Python(studying C++)</br> 
+Mainly uses Python(studying C++)
 
 ## Research Interest
 - Computer Vision: Object Detection, Segmentation, Classification

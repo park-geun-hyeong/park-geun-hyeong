@@ -1,10 +1,10 @@
 ## About Me👋
-#### Park Geun Hyeong
+### Park Geun Hyeong
 JBNU Electronic Engineering undergraduate student.(2017.03 ~ )
-Detailed major is Control Robotics.
+<br>Detailed major is Control Robotics.</br>
 
-Interested in AI & Robotics(SW)
-Mainly uses Python(studying C++) 
+<br>Interested in AI & Robotics(SW)</br>
+<br>Mainly uses Python(studying C++)</br> 
 
 ## Research Interest
 - Computer Vision: Object Detection, Segmentation, Classification

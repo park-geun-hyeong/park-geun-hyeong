@@ -7,7 +7,7 @@ Mainly uses Python(studying C++)
 
 ## Research Interest
 - Computer Vision: Object Detection, Segmentation, Classification
-- Visual Slam: ORB SLAM
+- Visual Slam: ORB SLAM, Visual Odometry
 
 
  [![park's github stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

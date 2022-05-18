@@ -10,7 +10,7 @@ Mainly uses Python(studying C++)
 - Visual Slam: ORB SLAM, Visual Odometry
 
 
- [![park's github stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

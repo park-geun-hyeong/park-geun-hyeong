@@ -10,7 +10,7 @@ Mainly uses Python(studying C++)
 - Visual Slam: ORB SLAM, Visual Odometry
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-geun-hyeong&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-geun-hyeong&layout=compact)](https://github.com/park-geun-hyeong/github-readme-stats)
 <!--
 **park-geun-hyeong/park-geun-hyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

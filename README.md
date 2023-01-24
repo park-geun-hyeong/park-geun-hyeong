@@ -1,13 +1,14 @@
 ## About Me👋
 ### Park Geun Hyeong
-JBNU Electronic Engineering undergraduate student.(2017.03 ~ )
+JBNU Electronic Engineering graduated student.(2017.03 ~ 2023.02)
 <br>Detailed major is Control Robotics.</br>
+<br>Now i'm working for LG Electronics(Embedded middleware).(2022.12 ~ )</br>
 <br>Interested in AI & Robotics(SW) & Autonomous Driving </br>
-Mainly uses Python(studying C++)
+Mainly uses Python, C/C++
 
-## Research Interest
+<!--## Research Interest
 - Computer Vision: Object Detection, Segmentation, Classification
-- Visual Slam: ORB SLAM, Visual Odometry
+- Visual Slam: ORB SLAM, Visual Odometry-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)
 

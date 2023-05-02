@@ -4,7 +4,7 @@ JBNU Electronic Engineering graduated student.(2017.03 ~ 2023.02)
 <br>Detailed major is Control Robotics.</br>
 Now i'm working for LG Electronics(Embedded middleware).(2022.12 ~ )
 
-<br>Interested in AI & Robotics(SW) & Autonomous Driving </br>
+<br>Also interested in AI & Robotics & Autonomous Driving </br>
 Mainly uses Python, C/C++
 
 <!--## Research Interest

@@ -1,6 +1,5 @@
 ## About Me👋
-### Park Geun Hyeong
-[Linkedin](https://www.linkedin.com/in/%EA%B7%BC%ED%98%95-%EB%B0%95-120801223/)
+### Park Geun Hyeong([Linkedin](https://www.linkedin.com/in/%EA%B7%BC%ED%98%95-%EB%B0%95-120801223/))
 JBNU Electronic Engineering graduated student.(2017.03 ~ 2023.02)
 <br>Detailed major is Control Robotics.</br>
 Now i'm working for LG Electronics(Embedded middleware).(2022.12 ~ )

@@ -11,6 +11,7 @@ Mainly uses Python, C/C++
 - Computer Vision: Object Detection, Segmentation, Classification
 - Visual Slam: ORB SLAM, Visual Odometry-->
 
+[Linkedin](https://www.linkedin.com/in/%EA%B7%BC%ED%98%95-%EB%B0%95-120801223/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-geun-hyeong&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park-geun-hyeong&hide=jupyter%20notebook&exclude_repo=ORB_SLAM2_MRCNN&layout=compact&theme=radical)](https://github.com/park-geun-hyeong/github-readme-stats)
